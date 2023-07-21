@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.product-item {
+  border: 1px solid black;
+  margin: 10px;
+}
+.shopping-cart {
+  border: 1px solid black;
+  margin: 10px;
+}
+.cart-icon {
+  border: 1px solid black;
+  margin: 10px;
+}
